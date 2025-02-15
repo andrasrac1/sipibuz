@@ -39,3 +39,7 @@ header{
 display: flex;
 justify-content: flex-end;
 }
+
+.sipi{
+    width: 50px;
+}
